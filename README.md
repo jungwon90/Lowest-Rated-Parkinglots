@@ -49,3 +49,7 @@ $ python3 server.py
 ```
 
 If you have lower version of python, replace "python3" to the version of python you use.
+
+
+### Google Maps API
+ You need to change the google maps api key on App.jax file to your own key
